@@ -20,11 +20,11 @@
 ## Link da Vídeo Aula no YouTube
 
 <p>
-    <strong>Criando uma Galeria de Fotos com HTML e CSS | EP. 2 - ASMR Programação</strong> | <a href="https://youtube.com/artigotech?sub_confirmation=1">Clique aqui para assistir!</a>
+    <strong>Criando uma Galeria de Fotos com HTML e CSS | EP. 2 - ASMR Programação</strong> | <a href="https://www.youtube.com/watch?v=BcUztMuCXco">Clique aqui para assistir!</a>
     <br />
     <br />
     <img 
-        src="" 
+        src="https://i.ytimg.com/vi/BcUztMuCXco/maxresdefault.jpg" 
         alt="Criando uma Galeria de Fotos com HTML e CSS | EP. 2 - ASMR Programação"
     />
 </p>
